@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/MVFUiFO8CrzwRBCSvJ-nH8YsJiSVIJkpJoBJgIMsAI0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ0/NDAzNDUzOC92ZWN0/b3IvYWJzdHJhY3Qt/YmluYXJ5LWJhY2tn/cm91bmQtZm9yLWhh/Y2thdGhvbi1hbmQt/b3RoZXItZGlnaXRh/bC1ldmVudHMuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPV9u/QjdRUU1ZeHB5U193/TGtMbm1BX3hNaHVD/WEU2aFRCZm9fbFhB/SHM4N2M9)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Piyush verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
