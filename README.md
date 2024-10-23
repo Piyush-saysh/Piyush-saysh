@@ -1,8 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Piyush verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-<p align="left"> <img src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt" alt="piyush-saysh" /> </p>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."> -->
+<p align="left"> <img src="https://imgs.search.brave.com/rccJiVpRHX2OOn56vkMspEwZ4yx8xz635x9-1F21sok/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LXBlbmd1aW4taS1s/aWtlLXByZXNzaW5n/LWJ1dHRvbnMtcHV2/M2NvYzV6NHBrdGg1/MS5naWY.jpeg" alt="piyush-saysh" /> </p>
 
 - 🔭 I’m currently working on **Code Editor**
 
