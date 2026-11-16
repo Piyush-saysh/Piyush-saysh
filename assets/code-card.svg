@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="330" viewBox="0 0 470 330" role="img" aria-label="Animated code card">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:13.5px;white-space:pre;}.cur{animation:blink 1s steps(1) infinite;}@keyframes blink{50%{opacity:0}}</style>
+<defs>
+<clipPath id="l0"><rect x="22" y="47" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;130;130;0" keyTimes="0;0.0429;0.0829;0.94;1"/></rect></clipPath>
+<clipPath id="l1"><rect x="22" y="69" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;202;202;0" keyTimes="0;0.0914;0.1539;0.94;1"/></rect></clipPath>
+<clipPath id="l2"><rect x="22" y="91" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;273;273;0" keyTimes="0;0.1625;0.2475;0.94;1"/></rect></clipPath>
+<clipPath id="l3"><rect x="22" y="113" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;194;194;0" keyTimes="0;0.2561;0.3161;0.94;1"/></rect></clipPath>
+<clipPath id="l4"><rect x="22" y="135" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;249;249;0" keyTimes="0;0.3246;0.4021;0.94;1"/></rect></clipPath>
+<clipPath id="l5"><rect x="22" y="157" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;257;257;0" keyTimes="0;0.4107;0.4907;0.94;1"/></rect></clipPath>
+<clipPath id="l6"><rect x="22" y="179" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;273;273;0" keyTimes="0;0.4993;0.5843;0.94;1"/></rect></clipPath>
+<clipPath id="l7"><rect x="22" y="201" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;249;249;0" keyTimes="0;0.5929;0.6704;0.94;1"/></rect></clipPath>
+<clipPath id="l8"><rect x="22" y="223" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;20;20;0" keyTimes="0;0.6789;0.6896;0.94;1"/></rect></clipPath>
+<clipPath id="l9"><rect x="22" y="245" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;4;4;0" keyTimes="0;0.6982;0.7089;0.94;1"/></rect></clipPath>
+<clipPath id="l10"><rect x="22" y="267" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;209;209;0" keyTimes="0;0.7175;0.7825;0.94;1"/></rect></clipPath>
+</defs>
+<rect width="470" height="330" rx="14" fill="#1a1b26"/>
+<rect x=".5" y=".5" width="469" height="329" rx="14" fill="none" stroke="#2f334d"/>
+<rect width="470" height="36" rx="14" fill="#16161e"/><rect y="22" width="470" height="14" fill="#16161e"/>
+<circle cx="22" cy="18" r="6" fill="#f7768e"/><circle cx="42" cy="18" r="6" fill="#e0af68"/><circle cx="62" cy="18" r="6" fill="#9ece6a"/>
+<text x="235.0" y="22" text-anchor="middle" fill="#565f89" style="font-size:12px">piyush.ts</text>
+<text x="22" y="62" clip-path="url(#l0)" xml:space="preserve"><tspan fill="#bb9af7">const </tspan><tspan fill="#7aa2f7">piyush</tspan><tspan fill="#c0caf5"> = {</tspan></text>
+<text x="22" y="84" clip-path="url(#l1)" xml:space="preserve"><tspan fill="#c0caf5">  role</tspan><tspan fill="#c0caf5">: [</tspan><tspan fill="#9ece6a">"CTO @ Scoutly"</tspan><tspan fill="#c0caf5">,</tspan></text>
+<text x="22" y="106" clip-path="url(#l2)" xml:space="preserve"><tspan fill="#c0caf5">         </tspan><tspan fill="#9ece6a">"AI &amp; Full-Stack @ KAN"</tspan><tspan fill="#c0caf5">],</tspan></text>
+<text x="22" y="128" clip-path="url(#l3)" xml:space="preserve"><tspan fill="#c0caf5">  based</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#9ece6a">"Delhi, India"</tspan><tspan fill="#c0caf5">,</tspan></text>
+<text x="22" y="150" clip-path="url(#l4)" xml:space="preserve"><tspan fill="#c0caf5">  stack</tspan><tspan fill="#c0caf5">: [</tspan><tspan fill="#9ece6a">"Next.js"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"FastAPI"</tspan><tspan fill="#c0caf5">,</tspan></text>
+<text x="22" y="172" clip-path="url(#l5)" xml:space="preserve"><tspan fill="#c0caf5">          </tspan><tspan fill="#9ece6a">"Postgres"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"OpenAI"</tspan><tspan fill="#c0caf5">],</tspan></text>
+<text x="22" y="194" clip-path="url(#l6)" xml:space="preserve"><tspan fill="#c0caf5">  loves</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#9ece6a">"shipping AI that works"</tspan><tspan fill="#c0caf5">,</tspan></text>
+<text x="22" y="216" clip-path="url(#l7)" xml:space="preserve"><tspan fill="#c0caf5">  speed</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#9ece6a">"idea → prod in days"</tspan><tspan fill="#c0caf5">,</tspan></text>
+<text x="22" y="238" clip-path="url(#l8)" xml:space="preserve"><tspan fill="#c0caf5">};</tspan></text>
+<text x="22" y="260" clip-path="url(#l9)" xml:space="preserve"><tspan fill="#c0caf5"></tspan></text>
+<text x="22" y="282" clip-path="url(#l10)" xml:space="preserve"><tspan fill="#565f89">// let's build something </tspan><tspan fill="#565f89">✨</tspan></text>
+<rect class="cur" x="22" y="290" width="8" height="2" fill="#7aa2f7"/>
+</svg>

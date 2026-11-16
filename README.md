@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=190&section=header&text=Hey,%20I'm%20Piyush&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=CTO%20@%20Scoutly%20%20%E2%80%A2%20%20AI%20%26%20Full-Stack%20Developer%20@%20KAN%20Universal&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Hey, I'm Piyush" />
+<img src="./assets/header.svg" width="100%" alt="Hey, I'm Piyush" />
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=560&lines=I+build+AI+products+end+to+end;From+rough+idea+to+production;Next.js+%C2%B7+FastAPI+%C2%B7+Postgres+%C2%B7+OpenAI;Based+in+Delhi%2C+India" alt="Typing intro" />
@@ -10,7 +10,7 @@
 <a href="https://www.leetcode.com/user4211fb"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
+<img align="right" width="400" src="./assets/code-card.svg" alt="Animated code card" />
 
 ### About me
 
@@ -45,4 +45,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-saysh&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=110&section=footer" width="100%" alt="" />

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Hey, I'm Piyush">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;}
+.t{animation:rise .9s ease-out both;}
+.d{animation:rise .9s .35s ease-out both;}
+@keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+.w1{animation:sway 9s ease-in-out infinite alternate;}
+.w2{animation:sway 12s ease-in-out infinite alternate-reverse;}
+@keyframes sway{from{transform:translateX(0)}to{transform:translateX(-120px)}}
+@media (prefers-reduced-motion:reduce){.t,.d,.w1,.w2{animation:none}}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset=".55" stop-color="#312e81"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="260" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="260" fill="url(#bg)"/>
+<circle cx="1040" cy="40" r="120" fill="#818cf8" opacity=".18"/>
+<circle cx="140" cy="210" r="90" fill="#22d3ee" opacity=".10"/>
+<path class="w1" d="M0 205 C150 170 300 240 450 205 S750 170 900 205 S1200 240 1350 205 L1350 260 L0 260Z" fill="#818cf8" opacity=".25"/>
+<path class="w2" d="M0 225 C160 195 320 255 480 225 S800 195 960 225 S1280 255 1440 225 L1440 260 L0 260Z" fill="#a5b4fc" opacity=".18"/>
+<text class="t" x="600" y="112" text-anchor="middle" font-size="58" font-weight="800" fill="#ffffff">Hey, I'm Piyush 👋</text>
+<text class="d" x="600" y="160" text-anchor="middle" font-size="21" font-weight="500" fill="#c7d2fe">CTO @ Scoutly  •  AI &amp; Full-Stack Developer @ KAN Universal</text>
+</g>
+</svg>
