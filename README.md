@@ -14,11 +14,11 @@
 
 ### About me
 
-- 🚀 **CTO at Scoutly**, building an AI-powered influencer marketplace for India
-- 💡 **AI & Full-Stack Developer at KAN Universal**, building their ERP, store and internal tools
-- 🧠 I like putting AI into real products, not just demos
-- ⚡ Usually go from idea to a live app in days
-- 🎓 B.Tech in AI & Data Science, GGSIPU
+I'm the CTO at **Scoutly**, where we're building an influencer marketplace for India. I also work as an **AI & Full-Stack Developer at KAN Universal**, an LED display company, where I build their ERP, online store and most of their internal tools.
+
+Most of what I build is full-stack web apps with some AI inside them. I enjoy taking an idea all the way to something people actually use.
+
+B.Tech in AI & Data Science from GGSIPU, Delhi.
 
 <br clear="right" />
 
@@ -26,9 +26,9 @@
 
 | | |
 |---|---|
-| 🤝 **Scoutly** <br/> AI agent that negotiates brand and creator deals, with payments and payouts built in | 🔎 **Scoutly Atlas** <br/> Search creators in plain English and get matched to campaigns |
-| 🏭 **KAN ERP** <br/> One app for purchase, stock and sales, on Android, iOS and the web | 📄 **Tender bid assistant** <br/> Reads a government tender and drafts the bid with sources |
-| 🗂️ **Stashify** <br/> Save anything and search it by meaning | 📺 **LED wall streaming** <br/> Laptop to LED wall streaming, written in Rust |
+| **Scoutly** <br/> AI agent that negotiates brand and creator deals, with payments and payouts built in <br/> <sub>`FastAPI` `Postgres` `React` `OpenAI`</sub> | **Scoutly Atlas** <br/> Search creators in plain English and get matched to campaigns <br/> <sub>`FastAPI` `Next.js` `OpenAI`</sub> |
+| **KAN ERP** <br/> One app for purchase, stock and sales, on Android, iOS and the web <br/> <sub>`Expo` `Hono` `Cloudflare Workers`</sub> | **Tender bid assistant** <br/> Reads a government tender and drafts the bid with sources <br/> <sub>`Python` `PydanticAI` `Postgres`</sub> |
+| **Stashify** <br/> Save anything and search it by meaning <br/> <sub>`Next.js` `Drizzle` `OpenAI`</sub> | **LED wall streaming** <br/> Streams a laptop screen to LED walls <br/> <sub>`Rust` `Kotlin`</sub> |
 
 ### My skill shelf
 

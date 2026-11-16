@@ -33,7 +33,7 @@ text{{font-family:{SANS};}}
 <circle cx="140" cy="210" r="90" fill="#22d3ee" opacity=".10"/>
 <path class="w1" d="M0 205 C150 170 300 240 450 205 S750 170 900 205 S1200 240 1350 205 L1350 260 L0 260Z" fill="#818cf8" opacity=".25"/>
 <path class="w2" d="M0 225 C160 195 320 255 480 225 S800 195 960 225 S1280 255 1440 225 L1440 260 L0 260Z" fill="#a5b4fc" opacity=".18"/>
-<text class="t" x="600" y="112" text-anchor="middle" font-size="58" font-weight="800" fill="#ffffff">Hey, I'm Piyush 👋</text>
+<text class="t" x="600" y="112" text-anchor="middle" font-size="58" font-weight="800" fill="#ffffff">Hey, I'm Piyush</text>
 <text class="d" x="600" y="160" text-anchor="middle" font-size="21" font-weight="500" fill="#c7d2fe">CTO @ Scoutly  •  AI &amp; Full-Stack Developer @ KAN Universal</text>
 </g>
 </svg>
@@ -53,7 +53,7 @@ CODE = [
     [("  speed", P), (": ", P), ('"idea → prod in days"', S), (",", P)],
     [("};", P)],
     [("", P)],
-    [("// let's build something ", C), ("✨", C)],
+    [("// let's build something", C)],
 ]
 
 

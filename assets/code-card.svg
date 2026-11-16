@@ -11,7 +11,7 @@
 <clipPath id="l7"><rect x="22" y="201" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;249;249;0" keyTimes="0;0.5929;0.6704;0.94;1"/></rect></clipPath>
 <clipPath id="l8"><rect x="22" y="223" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;20;20;0" keyTimes="0;0.6789;0.6896;0.94;1"/></rect></clipPath>
 <clipPath id="l9"><rect x="22" y="245" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;4;4;0" keyTimes="0;0.6982;0.7089;0.94;1"/></rect></clipPath>
-<clipPath id="l10"><rect x="22" y="267" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;209;209;0" keyTimes="0;0.7175;0.7825;0.94;1"/></rect></clipPath>
+<clipPath id="l10"><rect x="22" y="267" height="22" width="0"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;194;194;0" keyTimes="0;0.7175;0.7775;0.94;1"/></rect></clipPath>
 </defs>
 <rect width="470" height="330" rx="14" fill="#1a1b26"/>
 <rect x=".5" y=".5" width="469" height="329" rx="14" fill="none" stroke="#2f334d"/>
@@ -28,6 +28,6 @@
 <text x="22" y="216" clip-path="url(#l7)" xml:space="preserve"><tspan fill="#c0caf5">  speed</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#9ece6a">"idea → prod in days"</tspan><tspan fill="#c0caf5">,</tspan></text>
 <text x="22" y="238" clip-path="url(#l8)" xml:space="preserve"><tspan fill="#c0caf5">};</tspan></text>
 <text x="22" y="260" clip-path="url(#l9)" xml:space="preserve"><tspan fill="#c0caf5"></tspan></text>
-<text x="22" y="282" clip-path="url(#l10)" xml:space="preserve"><tspan fill="#565f89">// let's build something </tspan><tspan fill="#565f89">✨</tspan></text>
+<text x="22" y="282" clip-path="url(#l10)" xml:space="preserve"><tspan fill="#565f89">// let's build something</tspan></text>
 <rect class="cur" x="22" y="290" width="8" height="2" fill="#7aa2f7"/>
 </svg>
